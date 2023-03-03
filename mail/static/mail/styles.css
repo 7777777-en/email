@@ -1,0 +1,58 @@
+/* GENERAL */
+body {
+    font-family: var(--font-default);
+    margin-top: 70px;
+    background-color: #ebedf3;
+    color: #302e2e;
+}
+
+footer {
+    margin-top: 50px;
+    min-height: 30vh;
+}
+
+/* GENERAL BUTTONS */
+.links:hover {
+    font-size: 15px;
+}
+
+.bi-inbox {
+    color: #2c6f45;
+}
+
+.bi-arrow-up-right-square {
+    color: #6f6a2c;
+}
+
+.bi-envelope {
+    color: #2c506f;
+}
+
+.bi-archive {
+    color: #6f2c2c;
+}
+
+.btn {
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+/* FORM */
+textarea {
+    min-height: 300px;
+}
+
+form {
+    background-color: #96c6c668;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+/* READ or UNREAD */
+.read {
+    background-color: #64c1dd38;
+}
+
+.unread {
+    background-color: #ccd0dd2e;
+}
